@@ -1,7 +1,7 @@
 - 👋 Hi, I’m R. A.
-- ✨ I’m interested in Mathematics, C and Pascal.
-- 🌱 I’m currently learning Linux.
-- 💞️ I’m looking to collaborate on C projects.
+- ✨ I’m interested in Mathematics, C, Pascal and Linux.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on C or C++ projects.
 - 📫 How to reach me ra19@tutanota.com
 
 <!---
