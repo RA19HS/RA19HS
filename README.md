@@ -1,4 +1,4 @@
-- 👋 Hi, I’m R. A.
+- 👋 Hi, I’m Reza A.
 - ✨ I’m interested in Mathematics, programming and Linux.
 - 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on Go or C++ projects.
