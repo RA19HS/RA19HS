@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reza A.
-- ✨ I’m interested in Mathematics, programming and Linux.
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on Go or C++ projects.
+- ✨ I’m interested in Mathematics, AI and programming.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on AI or C++ projects.
 - 📫 How to reach me ra10011027@gmail.com
 
 <!---
