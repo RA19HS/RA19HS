@@ -1,4 +1,4 @@
-- ☺️ Hi, I’m Reza A.
+- ☺️ Hi, I’m Reza Ahangarpour.
 - ✨ interested in mathematics and ai.
 - 🌱 currently learning deep learning.
 - ☕️ looking to collaborate on ai.
